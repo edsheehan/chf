@@ -8,7 +8,9 @@
 
 <details>
   
-  <summary>Sample</summary>
+  <summary>
+    Sample
+  </summary>
 
   ### Heading
   The dashboard can be accessed via
