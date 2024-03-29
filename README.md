@@ -30,7 +30,7 @@
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 <a href="assist/">
-  <img src="Measuring-Tape" alt="drawing" style="width:100px;"/>
+  <img src="Measuring-Tape.png" alt="drawing" style="width:100px;"/>
 </a>
 
 <details>
