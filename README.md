@@ -6,13 +6,16 @@
 
 ## Stuff
 
-<details closed><summary>Sample</summary>
+<details>
+<summary>Sample
+
+</summary>
   
-  ### Heading
+  ### Heading ###
   The dashboard can be accessed via
   <br>
   [Some Link](https://google.com)
   <br>
   More text **important**
-  ### ANother heading
+  ### Another heading ###
 </details>
