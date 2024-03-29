@@ -22,12 +22,12 @@ Sample
 </details>
 
 
-|<b>Measures</b><br/><a href="assist/"><img src="Measuring-Tape.png" alt="Measures" style="width:300px;"/></a>|Description<br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> | <img src="NAB_Logo.png" alt="drawing" style="width:100px;">
+|<a href="assist/"><img src="Measures.png" alt="drawing"></a>| <a href="other/"><img src="Measures.png" alt="drawing"></a> | <img src="Measures.png" alt="drawing"> | 
 | :---:  | :---: | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
 
 
-|||
+|<!-- -->|<!-- -->|
 | --------------------------------------- | ------------------------------------- |
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
