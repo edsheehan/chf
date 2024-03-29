@@ -1,3 +1,7 @@
+<header>
+  <!-- TL;DR -->
+</header>
+
 # Critical Hygiene Framework
 
 Test
