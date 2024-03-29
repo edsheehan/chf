@@ -6,7 +6,7 @@
 
 ## Stuff
 
-<details><summary># Summary B #
+<details><summary>Summary C
 
 </summary>
 
