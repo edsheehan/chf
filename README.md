@@ -6,11 +6,13 @@
 
 ## Stuff
 
+<details><summary>Toggle me!</summary>Peek a boo!</details>
+
 <details>
 
 <summary>
 
-Summary E
+Summary F
 
 </summary>
 
