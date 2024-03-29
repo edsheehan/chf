@@ -8,11 +8,7 @@
 
 <details>
 
-<summary>
-
-# Summary (h1)
-
-</summary>
+<summary># Summary (h1)</summary>
 
 content
   
