@@ -8,7 +8,7 @@
 
 <details>
 
-<summary>How to access the CHF</summary>
+<summary>Sample</summary>
 
 The dashboard can be accessed via 
 [Some Link](https://google.com)
