@@ -22,8 +22,8 @@ Sample
 </details>
 
 
-| Syntax      |     Description     <br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> | <img src="NAB_Logo.png" alt="drawing" style="width:100px;">
-| ----------- | :---: | :---: |
+|<b>Measures</b><br/><a href="assist/"><img src="Measuring-Tape.png" alt="Measures" style="width:300px;"/></a>|Description<br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> | <img src="NAB_Logo.png" alt="drawing" style="width:100px;">
+| :---:  | :---: | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
 
 
