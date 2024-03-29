@@ -31,10 +31,13 @@
        width="105.56875"
        height="39.6875"
        x="33.171429"
-       y="180.25714" /><text
+       y="180.25714"
+       inkscape:export-filename="Guage.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Epilogue;-inkscape-font-specification:'Epilogue, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="71.809433"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Epilogue;-inkscape-font-specification:'Epilogue, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.587875"
        y="217.43393"
        id="text1-1"
        inkscape:export-filename="Guage.png"
@@ -42,8 +45,8 @@
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1-5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Epilogue;-inkscape-font-specification:'Epilogue, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#4d4d4d;stroke-width:0.264583"
-         x="71.809433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Epilogue;-inkscape-font-specification:'Epilogue, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#4d4d4d;stroke-width:0.264583"
+         x="71.587875"
          y="217.43393">Measures</tspan></text><g
        id="g16"
        transform="translate(46.044678,54.534006)"><path
