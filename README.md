@@ -6,8 +6,8 @@
 
 ## Stuff
 
-<details><summary>Sample</summary>
-
+<details closed><summary>Sample</summary>
+  
   ### Heading
   The dashboard can be accessed via
   <br>
