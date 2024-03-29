@@ -7,7 +7,9 @@
 ## Stuff
 
 <details>
-<summary># Summary A</summary>
+<summary># Summary A
+
+</summary>
 
 content
   
