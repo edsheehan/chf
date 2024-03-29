@@ -1,6 +1,6 @@
 # Critical Hygiene Framework
 
-| Syntax      |     Description     <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><a href=""><&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>Sample test</a> |
+| Syntax      |     Description     <br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> |
 | ----------- | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
 
