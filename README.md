@@ -20,8 +20,8 @@
 </details>
 
 
-| Syntax      |     Description     <br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> |
-| ----------- | :---: |
+| Syntax      |     Description     <br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;">Sample test</a> | <img src="NAB_Logo.png" alt="drawing" style="width:100px;">
+| ----------- | :---: | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
 
 
@@ -30,7 +30,7 @@
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
 <a href="assist/">
-  <img src="NAB_Logo.png" alt="drawing" style="width:100px;"/>
+  <img src="Measuring-Tape" alt="drawing" style="width:100px;"/>
 </a>
 
 <details>
