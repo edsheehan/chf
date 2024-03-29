@@ -6,7 +6,7 @@
 
 Test
 
-<a href="/Other/README.md">
+<a href="other/README.md">
   <img src="NAB_Logo.png" alt="drawing" style="width:100px;"/>
 </a>
 
