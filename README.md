@@ -6,11 +6,7 @@
 
 ## Stuff
 
-<details>
-  
-  <summary>
-    Sample
-  </summary>
+<details><summary>Sample</summary>
 
   ### Heading
   The dashboard can be accessed via
