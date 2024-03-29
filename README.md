@@ -1,6 +1,6 @@
 # Critical Hygiene Framework
 
-| Syntax      | Description<br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a> |
+| Syntax      |     Description     <br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a> |
 | ----------- | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
 
@@ -12,5 +12,22 @@
 <a href="other/">
   <img src="NAB_Logo.png" alt="drawing" style="width:100px;"/>
 </a>
+
+<details>
+  <summary><h2><span style="color: red">Availability</span></h2></summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 Sample
