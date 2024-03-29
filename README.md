@@ -14,8 +14,10 @@
 </a>
 
 <details>
-  <summary>Availability</summary>
-  
+  <summary>
+    Availability
+  </summary>
+
   ### Heading
   1. Foo
   2. Bar
