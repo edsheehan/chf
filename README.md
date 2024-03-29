@@ -6,10 +6,11 @@
 
 ## Stuff
 
-<details>
-<summary>Sample
+<details><summary>
 
+# Summary (h1)
 </summary>
+content
   
   ### Heading ###
   The dashboard can be accessed via
