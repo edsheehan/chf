@@ -1,7 +1,7 @@
 # Critical Hygiene Framework
 
 <details>
-  <summary><h2>Availability</h2></summary>
+  <summary>Availability</summary>
   <p></p>
   Some text here
   
