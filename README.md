@@ -14,7 +14,7 @@
 </a>
 
 <details>
-  <summary><h2><span style="color: #FF69B4;"Availability</span></summary>
+  <summary><h2><span style="color: #FF69B4;">Availability</span></summary>
   
   ### Heading
   1. Foo
