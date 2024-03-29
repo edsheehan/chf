@@ -8,8 +8,7 @@
 
 <details>
 
-<summary>
-How to access the CHF
+<summary>How to access the CHF
 </summary>
 
 The dashboard can be accessed via 
