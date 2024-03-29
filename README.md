@@ -2,25 +2,11 @@
 
 Sample
 
-<details>
-  <summary>Availability</summary>
-  <p></p>
-  Some text here
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
 
 |<a href="assist/"><img src="Measures.png" alt="drawing"></a>| <a href="other/"><img src="Measures.png" alt="drawing"></a> | <img src="Measures.png" alt="drawing"> | 
 | :---:  | :---: | :---: |
