@@ -7,11 +7,12 @@
 ## Stuff
 
 <details>
-
 <summary>Sample</summary>
 
-The dashboard can be accessed via 
+### Heading
+The dashboard can be accessed via
+<br>
 [Some Link](https://google.com)
+<br>
 More text **important**
-    
 </details>
