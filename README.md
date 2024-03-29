@@ -8,7 +8,7 @@ Sample
   <div class="column"></div>
 </div>
 
-|<a href="assist/"><img src="Guage.svg" alt="drawing"></a>| <a href="other/"><img src="Guage.png" alt="drawing"></a> | <img src="Measures.png" alt="drawing"> | 
+|<a href="assist/"><img src="Guage.svg" alt="drawing"></a>| <a href="other/"><img src="Guage.svg" alt="drawing"></a> | <img src="Guage.svg" alt="drawing"> | 
 | :---:  | :---: | :---: |
 ||||
 
