@@ -29,7 +29,7 @@
 | --------------------------------------- | ------------------------------------- |
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
-<a href="other/">
+<a href="assist/">
   <img src="NAB_Logo.png" alt="drawing" style="width:100px;"/>
 </a>
 
