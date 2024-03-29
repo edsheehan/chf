@@ -10,6 +10,7 @@ Sample
 
 |<a href="assist/"><img src="Guage.svg" alt="drawing"></a>| <a href="other/"><img src="Guage.png" alt="drawing"></a> | <img src="Measures.png" alt="drawing"> | 
 | :---:  | :---: | :---: |
+||||
 
 <details>
   <summary><h2>Availability</h2></summary>
