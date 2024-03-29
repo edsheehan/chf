@@ -1,9 +1,9 @@
 # How to add a collapsible section in markdown
 ## 1. Example
 <details>
-  <summary>Click me</summary>
+  <summary><h2>Click me</h2></summary>
 
-  ### Heading
+  <h3>Heading</h3>
   1. Foo
   2. Bar
      * Baz
