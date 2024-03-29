@@ -16,11 +16,12 @@
 
 content
   
-  ### Heading ###
-  The dashboard can be accessed via
-  <br>
-  [Some Link](https://google.com)
-  <br>
-  More text **important**
-  ### Another heading ###
+### Heading ###
+The dashboard can be accessed via
+<br>
+[Some Link](https://google.com)
+<br>
+More text **important**
+### Another heading ###
+
 </details>
