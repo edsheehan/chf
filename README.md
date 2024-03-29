@@ -7,7 +7,6 @@
 ## Stuff
 
 <details>
-
 <summary># Summary (h1)</summary>
 
 content
