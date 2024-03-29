@@ -14,7 +14,7 @@
 </a>
 
 <details>
-  <summary><h2>Availability</h2></summary>
+  <summary>Availability</summary>
   
   ### Heading
   1. Foo
