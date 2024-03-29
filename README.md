@@ -1,13 +1,11 @@
 # Critical Hygiene Framework
 
-Test
-
-| Syntax      | Description |
+| Syntax      | Description<br/><a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a> |
 | ----------- | :---: |
 | Header      | <a href="other/"><img src="NAB_Logo.png" alt="drawing" style="width:100px;"/><br/>Sample test</a>|
-| Paragraph   | Text        |
 
-| <div style="width:890px">property</div> | description                           |
+
+|||
 | --------------------------------------- | ------------------------------------- |
 | `border-bottom-right-radius`            | Defines the shape of the bottom-right |
 
