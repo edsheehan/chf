@@ -7,6 +7,7 @@
 ## Stuff
 
 <details>
+  
   <summary>Sample</summary>
 
   ### Heading
