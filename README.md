@@ -6,10 +6,14 @@
 
 ## Stuff
 
-<details><summary>
+<details>
+
+<summary>
 
 # Summary (h1)
+
 </summary>
+
 content
   
   ### Heading ###
