@@ -9,10 +9,11 @@
 <details>
   <summary>Sample</summary>
 
-### Heading
-The dashboard can be accessed via
-<br>
-[Some Link](https://google.com)
-<br>
-More text **important**
+  ### Heading
+  The dashboard can be accessed via
+  <br>
+  [Some Link](https://google.com)
+  <br>
+  More text **important**
+  ### ANother heading
 </details>
