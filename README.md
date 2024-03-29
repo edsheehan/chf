@@ -6,5 +6,9 @@
 
 <details>
     <summary>How to access the CHF</summary>
-    The dashboard can be accessed via [An Internal Link](https://google.com)
+    The dashboard can be accessed via 
+    
+    [Some Link](https://google.com)
+    
+    More text **important**
 </details>
