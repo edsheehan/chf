@@ -1,5 +1,7 @@
 <details>
   <summary>Availability</summary>
+
+  
     
   ### Heading
   1. Foo
