@@ -1,5 +1,7 @@
 # Critical Hygiene Framework
 
+Sample
+
 <details>
   <summary>Availability</summary>
   <p></p>
