@@ -2,12 +2,6 @@
 
 Sample
 
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
-  <div class="column"></div>
-</div>
-
 |<a href="assist/"><img src="Guage.svg" alt="drawing"></a>| <a href="other/"><img src="Guage.svg" alt="drawing"></a> | <img src="Guage.svg" alt="drawing"> | 
 | :---:  | :---: | :---: |
 ||||
